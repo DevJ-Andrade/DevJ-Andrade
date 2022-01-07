@@ -5,8 +5,7 @@
 - 📫 Contact me: johnny_sap178@yahoo.com.br 
 
 <div>
-  <a href ="https://github.com/DevJ-Andrade">
- <img height="180em" https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra
  <div> 
 
 <div> 
