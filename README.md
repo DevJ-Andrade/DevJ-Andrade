@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning vue.js and react ...
 - 📫 Contact me: johnny_sap178@yahoo.com.br 
 - ✔️ Advanced English 
-- My projects in react on Vercel:
+- My projects ReactJS in Vercel:
 - Buscador de CEP (zip code locator) ReactJS project. https://react-project-sand-two.vercel.app/
 - Calculadora de IMC (BMI calculator) ReactJS projecto. https://react-bmi-calculator-eta.vercel.app/
 
