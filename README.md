@@ -37,6 +37,8 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="https://github.com/DevJ-Andrade/DevJ-Andrade/blob/main/assets/25231.png">
+  ![image](https://user-images.githubusercontent.com/91696072/153920509-705c4257-f252-4705-a40e-b957c273134b.png)
+
   
   
  
