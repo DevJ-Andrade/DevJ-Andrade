@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning vue.js and react ...
 - 📫 Contact me: johnny_sap178@yahoo.com.br 
 - ✔️ Advanced English 
+- My projects in react on Vercel:
+- Buscador de CEP (zip code locator) ReactJS project. https://react-project-sand-two.vercel.app/
+- Calculadora de IMC (BMI calculator) ReactJS projecto. https://react-bmi-calculator-eta.vercel.app/
 
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/johnny-assun%C3%A7%C3%A3o-web-developer/">Johnny Assunção<i></i></a> 😃️</h1>
