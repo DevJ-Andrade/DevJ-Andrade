@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on Web Development ...
 - 🌱 I’m currently learning vue.js and react ...
-- 📫 Contact me: johnny_sap178@yahoo.com.br 
+- 📫 Contact me: johnny_sap178@yahoo.com.br  ![image](https://user-images.githubusercontent.com/91696072/159096323-e8ac292a-2b60-4a39-bc48-bcbf8d355d33.png)
+
 - ✔️ Advanced English 
 - My projects ReactJS in Vercel:
 - Buscador de CEP (zip code locator) ReactJS project. https://react-project-sand-two.vercel.app/
