@@ -10,7 +10,7 @@
 - Buscador de CEP (zip code locator) ReactJS project. https://react-project-sand-two.vercel.app/
 - Calculadora de IMC (BMI calculator) ReactJS project. https://react-bmi-calculator-eta.vercel.app/
 - Covid Tracker Vue.JS project. https://covid-trackervue.netlify.app/
-- For more check my GitHub.
+-
 
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/johnny-assun%C3%A7%C3%A3o-web-developer/">Johnny Assunção<i></i></a> 😃️</h1>
@@ -43,6 +43,7 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="https://github.com/DevJ-Andrade/DevJ-Andrade/blob/main/assets/25231.png">
+  <img align="center" alt="react" height="35" width="35" src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png"
 
 
   
