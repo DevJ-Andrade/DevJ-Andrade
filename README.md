@@ -43,8 +43,8 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="https://github.com/DevJ-Andrade/DevJ-Andrade/blob/main/assets/25231.png">
-  <img align="center" alt="react" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png"
-  <img align="center" alt="react" height="35" width="35" src="data:image/webp;base64,UklGRjoDAABXRUJQVlA4WAoAAAAQAAAA4AAA4AAAQUxQSIECAAARDzD/ERECcmvrWRyj+fGSElwKpUFplEIJLGcShBV4733P8jKbiP47bNs2kPgDfHpRlkj/LL9PrXXcaq0D4CkmsN/Wy+O2XPKtCCWyCzAezHKD6eARwhT5CCu8mseAL3LLwpz4dfvtEJZLTSejIepDOuiLfmqdpXQbNJwEnfT2+QJ/A5Ly0Bbp4O8NE9ImZilrqwSfmnPg7U9GK1EpYStRKbIV3NQqSwlziGIIc9AxSLN2SMsNcsAYcBtS1U4piVZkKYM2SBWFrQSlxK0EpcStBKXoHCB3iJ9iMFrRpRg5qBgCRdlZeML6fI1WdClGK7oUoxVditGKLkXnIHAMRiu6lCCHy3xwKSn0QRNxchAxhDJbkZNDEEN8wvJ8nVZkKVEODGKILehBohwYxeC0IkuJcmAQg+EEiTg5iBhaWTmoGOIcEMVgtaJKiXNAFIPZykjiHBDFYLaSidGKLsVs5UGMHFQMgUXCfTs5yBjijQPct+UIYrBOmGPwWpmI1YoqxWylEKsVLiW0w65p68UyrncMlk3AfZs5PHbLqmXLlFQpVg58vqZTlOK1YpaSKDAKzTNcque4faCU2fTYy2L6KJMpb3y+ZitcitmKKsU6YT5fMweMwTT9+TDrhPl8zRzSYUrKYKrX3l2nkFwDleK2QqW4OUAMzdwcKAY3h822sdFWdtvKsm362BaAMbg5QAyt7I1DDL7qO9DcwwdNPeyomDY09rCi3MOCHj0kNHRxUgwtG5/7+MC+m7XkUJq15DD2sVIMLRt/9JFg353A+bZqyWHu5QMxtGy8NGvZ+NisJYfcrCWHRy/pjqFp46mbY+7nM/Wzl362scma+1ke/aQh/VP9EgBWUDggkgAAAFAPAJ0BKuEA4QA+kUiiTSWkIyIgKACwEglpbuF2sRtACewD32ych77ZOQ99snIe+2TkPfbJyHvtk5D32ych77ZOQ99snIe+2TkPfbJyHvtk5D32ych77ZOQ99snIe+2TkPfbJyHvtk5D32ych77ZOQ99snIe+2TkPfbJyHvtk5D31gAAP7/vBGCoAAAAAAAAAAA"
+  <img align="center" alt="react" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png">
+  <img align="center" alt="vue.js" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1521498-1288240.png">
 
 
   
