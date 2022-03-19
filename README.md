@@ -13,7 +13,7 @@
 
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/johnny-assun%C3%A7%C3%A3o-web-developer/">Johnny Assunção<i></i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.alura.com.br/"><i>Alura</i></a> e também estou fazendo o bootcamp da <a href="https://www.rocketseat.com.br/"><i>RockSeat</i></a><span> 👉🏽️🚀</span>
+  <p align="center">Estudo Desenvolvimento Web na Udemy e também estou fazendo o bootcamp da Dio 👉🏽️🚀</span>
   <!-- <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" /> -->
   </a><br>
