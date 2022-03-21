@@ -6,7 +6,7 @@
 - 📞 55+ (21) 97447-7493
 - ☑️ LinkedIn: www.linkedin.com/in/johnny-assunção-web-developer
 - ✔️ Advanced English ✔️
-- My Portfolio: https://devj-andrade.github.io/portfolio/
+- My Portfolio: https://devj-andrade.github.io/portfolio/ 🚀
 - My Projects:
 - Buscador de CEP (zip code locator) ReactJS project. https://react-project-sand-two.vercel.app/
 - Calculadora de IMC (BMI calculator) ReactJS project. https://react-bmi-calculator-eta.vercel.app/
