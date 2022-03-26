@@ -8,6 +8,7 @@
 - ✔️ Advanced English ✔️
 - My Portfolio: https://devj-andrade.github.io/portfolio/ 🚀
 - My Projects:
+- Super projeto usando API da NASA e colocando no google maps eventos naturais extremos com react.js: https://extremeweather-events.netlify.app/
 - Buscador de CEP (zip code locator) ReactJS project. https://react-project-sand-two.vercel.app/
 - Calculadora de IMC (BMI calculator) ReactJS project. https://react-bmi-calculator-eta.vercel.app/
 - Covid Tracker Vue.JS project. https://covid-trackervue.netlify.app/
