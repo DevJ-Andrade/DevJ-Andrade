@@ -19,7 +19,7 @@
   <!-- <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" /> -->
   </a><br>
-  <p align="center">Seja muito bem vindo, obrigado! 😉️</h2>
+ 
 </div>
 
 
