@@ -15,11 +15,11 @@
 
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/johnny-assun%C3%A7%C3%A3o-web-developer/">Johnny Assunção<i></i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na Udemy e também estou fazendo o bootcamp da Dio 👉🏽️🚀</span>
+  <p align="center">Estudo Análise e desenvolvimento de sistemas na UNINTER e também estou fazendo o bootcamp da Dio 👉🏽️🚀</span>
   <!-- <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" /> -->
   </a><br>
-  <p align="center">Já segue aí e vem codar comigo, tua contribuição será muito bem vinda, obrigado! 😉️</h2>
+  <p align="center">Seja muito bem vindo, obrigado! 😉️</h2>
 </div>
 
 
