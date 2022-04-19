@@ -6,12 +6,7 @@
 - 📞 55+ (21) 97447-7493
 - ☑️ LinkedIn: www.linkedin.com/in/johnny-assunção-web-developer
 - ✔️ Advanced English ✔️
-- My Portfolio: https://devj-andrade.github.io/portfolio/ 🚀
-- My Projects:
-- Super projeto usando API da NASA e colocando no google maps eventos naturais extremos com react.js: https://extremeweather-events.netlify.app/
-- Buscador de CEP (zip code locator) ReactJS project. https://react-project-sand-two.vercel.app/
-- Calculadora de IMC (BMI calculator) ReactJS project. https://react-bmi-calculator-eta.vercel.app/
-- Covid Tracker Vue.JS project. https://covid-trackervue.netlify.app/
+- ✔️ Portfolio: https://devj-andrade.github.io/portfolio/ 🚀
 
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/johnny-assun%C3%A7%C3%A3o-web-developer/">Johnny Assunção<i></i></a> 😃️</h1>
